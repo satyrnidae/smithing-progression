@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Smithing Progression"
+  },
+  "meta": {
+    "author": "Isabel Maskrey (saturniidae)",
+    "website": "https://satyrn.dev",
+    "version": "1.0.0",
+    "baseArchiveName": "smithing-progression"
+  }
+}

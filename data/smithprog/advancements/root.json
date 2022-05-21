@@ -1,0 +1,18 @@
+{
+  "parent": "global:satyrnidae/author",
+  "display": {
+      "icon": {
+          "item": "minecraft:smithing_table"
+      },
+      "title": "Smithing Progression",
+      "description": "Upgrade your tools at a fraction of the cost!",
+      "announce_to_chat": false,
+      "show_toast": false,
+      "hidden": false
+  },
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
